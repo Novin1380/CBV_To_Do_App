@@ -16,7 +16,7 @@
 - [Bugs or Opinion](#bugs-or-opinion)
 
 ### Built With
-This section is the list of languages used in this project.
+<p> This section is the list of languages used in this project.</p>
 ---
 <p align="center" >
 <img src="https://github.com/wsvincent/awesome-django/raw/main/assets/django-logo-positive.svg" alt="database schema"  margin="20px" width="70" height="70"/>
