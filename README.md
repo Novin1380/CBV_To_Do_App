@@ -14,6 +14,12 @@
 - [Todo](#todo)
 - [Bugs or Opinion](#bugs-or-opinion)
 
+### Demo
+This is a brief demo of the functionality of the project
+<p align="center">
+<img src="https://user-images.githubusercontent.com/29748439/135058615-5fcea765-464e-4630-aa6c-093fabad2ed9.gif" alt="database schema" width="720"/>
+</p>
+
 
 ### Todo
 <h5>with these features:</h5>
