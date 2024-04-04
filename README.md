@@ -34,6 +34,15 @@ This is a brief demo of how does project works!
 <p align="center">
 <img src="https://github.com/Novin1380/CBV_To_Do_App/blob/main/Demo/ToDoApp-Test.gif" alt="database schema" width="720"/>
 </p>
+### Database schema
+A simple view of the project model schema.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/29748439/134964183-595bd7cf-df01-4089-8d22-bfb765d62c18.png" alt="database schema" width="300"/>
+</p>
+
+### Reformat and check
+💡If you want to use this code in your project, notice that the libraries that used in this code are in requirements.txt.
+💡Its important that all pages are LoginRequire so you should create accounts to test it.
 
 
 
