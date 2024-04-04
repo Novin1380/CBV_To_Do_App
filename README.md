@@ -18,12 +18,11 @@
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 ---
-<p align="center" justify-content= "space-between">
+<p justify-content= "space-between">
 <img src="https://github.com/wsvincent/awesome-django/raw/main/assets/django-logo-positive.svg" alt="database schema" />
 <img src="https://hugovk.github.io/python-logos/img/EuroPython%20Society.png" alt="database schema"/>
 </p>
-[![python](https://hugovk.github.io/python-logos/img/EuroPython%20Society.png)][1]
-[![django](https://github.com/wsvincent/awesome-django/raw/main/assets/django-logo-positive.svg)][2]
+
 ---
 * [![Next][Next.js]][Next-url]
 * [![Django][Django Logo]][Django URL]
