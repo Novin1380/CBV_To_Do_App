@@ -4,6 +4,7 @@
 
 ### Overview
 - [Overview](#overview)
+- [Built With](#Built-With)
 - [Demo](#demo)
 - [Features](#features)
 - [Setup](#setup)
@@ -25,7 +26,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  margin="20px" alt="html5" width="70" height="70"/>
 <img src="http://3con14.biz/code/_data/js/intro/js-logo.png" alt="js"  margin="20px" width="70" height="70"/>
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite"  margin="20px" width="70" height="70"/>
-
 </p>
 
 ---
