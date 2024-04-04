@@ -186,3 +186,19 @@ body::-webkit-scrollbar-thumb:hover {
     color: white;
     background-color: goldenrod;
 }
+
+
+.close-button{
+    font-size: 30px;
+    background-color: transparent;
+    color: rgb(255, 0, 0);
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 0 2px;
+}
+
+.close-button:hover {
+    color: #da190b;
+}

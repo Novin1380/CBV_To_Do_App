@@ -4,7 +4,7 @@ from .models import Task
 
 
 class TaskUpdateForm(forms.ModelForm):
-    title = forms.CharField(widget=forms.TextInput(attrs={'class': 'form-control rounded-4' , "name": "title", "placeholder": "Write the title",}),label="",)
+    title = forms.CharField(widget=forms.TextInput(attrs={'class': 'form-control' ,'id':'task-input', "name": "title", "placeholder": "Write the title",}),label="",)
     
     
     class Meta:
