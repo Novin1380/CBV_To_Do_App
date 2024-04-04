@@ -17,9 +17,10 @@
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-[![github](https://hugovk.github.io/python-logos/img/EuroPython%20Society.png)][1]
 ---
-
+[![python](https://hugovk.github.io/python-logos/img/EuroPython%20Society.png)][1]
+[![django](https://github.com/wsvincent/awesome-django/raw/main/assets/django-logo-positive.svg)][2]
+---
 * [![Next][Next.js]][Next-url]
 * [![Django][Django Logo]][Django URL]
 * [![JavaScript][JavaScript Logo]][JavaScript URL]
