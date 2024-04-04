@@ -104,7 +104,8 @@ Once the server is up and running, head over to http://127.0.0.1:8000 for the Ap
 - [x] complete the documentation
 - [x] create a video tutorial
 
-
+### Bugs or Opinion
+Feel free to let me know if there are any problems or any request you have for this repo.
 
 <h3 align="center" color="red">In the future I will complete this project and make new features</h3>
 
