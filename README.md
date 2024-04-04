@@ -14,8 +14,21 @@
 - [Todo](#todo)
 - [Bugs or Opinion](#bugs-or-opinion)
 
+### Built With
+
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+* [![Next][Next.js]][Next-url]
+* [![Django][Django Logo]][Django URL]
+* [![JavaScript][JavaScript Logo]][JavaScript URL]
+* [![HTML][HTML Logo]][HTML URL]
+* [![CSS][CSS Logo]][CSS URL]
+* [![Django][Django.com]][Django-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![Python][Python Logo]][Python URL]
+
 ### Demo
-This is a brief demo of the functionality of the project
+This is a brief demo of how does project works!
 <p align="center">
 <img src="https://github.com/Novin1380/CBV_To_Do_App/blob/main/Demo/ToDoApp-Test.gif" alt="database schema" width="720"/>
 </p>
