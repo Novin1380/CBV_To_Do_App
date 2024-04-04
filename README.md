@@ -21,9 +21,10 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <p align="center" >
 <img src="https://github.com/wsvincent/awesome-django/raw/main/assets/django-logo-positive.svg" alt="database schema"  margin="20px" width="70" height="70"/>
 <img src="https://hugovk.github.io/python-logos/img/EuroPython%20Society.png" alt="database schema" margin="20px"  width="70" height="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  margin="20px" alt="html5" width="70" height="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  margin="20px" alt="bootstrap" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  margin="20px" alt="html5" width="70" height="70"/>
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fcss-logo%2F&psig=AOvVaw0YVfEmlwYcu07D2VEhMeu4&ust=1712332915742000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDd66v3qIUDFQAAAAAdAAAAABAE" alt="css3" margin="20px" width="70" height="70">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Fjavascript&psig=AOvVaw0RRHIgCWN3JzTR7M85Ydsu&ust=1712333009233000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPD3h9n3qIUDFQAAAAAdAAAAABAE" alt="js"  margin="20px" width="70" height="70"/>
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite"  margin="20px" width="70" height="70"/>
 
 </p>
