@@ -18,9 +18,9 @@
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 ---
-<p justify-content= "space-between">
-<img src="https://github.com/wsvincent/awesome-django/raw/main/assets/django-logo-positive.svg" alt="database schema"   width="40" height="40"/>
-<img src="https://hugovk.github.io/python-logos/img/EuroPython%20Society.png" alt="database schema"   width="40" height="40"/>
+<p align="center" >
+<img src="https://github.com/wsvincent/awesome-django/raw/main/assets/django-logo-positive.svg" alt="database schema"  margin="20px" width="50" height="50"/>
+<img src="https://hugovk.github.io/python-logos/img/EuroPython%20Society.png" alt="database schema" margin="20px"  width="50" height="50"/>
 </p>
 
 ---
