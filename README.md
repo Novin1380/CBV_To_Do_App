@@ -106,7 +106,7 @@ Once the server is up and running, head over to http://127.0.0.1:8000 for the Ap
 
 
 
-<h3 align="center" style="color:red;">In the future I will complete this documents for using guide</h3>
+<h3 align="center" color="red">In the future I will complete this project and make new features</h3>
 
 <h5 align="center">just enjoy! 👋</h5>
  
