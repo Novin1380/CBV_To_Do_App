@@ -17,7 +17,9 @@
 
 ### Built With
 <p> This section is the list of languages used in this project.</p>
+
 ---
+
 <p align="center" >
 <img src="https://github.com/wsvincent/awesome-django/raw/main/assets/django-logo-positive.svg" alt="database schema"  margin="20px" width="70" height="70"/>
 <img src="https://hugovk.github.io/python-logos/img/EuroPython%20Society.png" alt="database schema" margin="20px"  width="70" height="70"/>
@@ -38,7 +40,7 @@ This is a brief demo of how does project works!
 ### Database schema
 A simple view of the project model schema.
 <p align="center">
-<img src="https://github.com/Novin1380/CBV_To_Do_App/blob/main/Demo/Data.PNG" alt="database schema" width="300"/>
+<img src="https://github.com/Novin1380/CBV_To_Do_App/blob/main/Demo/Data.PNG" alt="database schema" width="600"/>
 </p>
 
 ### features
