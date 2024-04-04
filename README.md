@@ -15,8 +15,10 @@
 - [Bugs or Opinion](#bugs-or-opinion)
 
 ### Demo
-<p align="center">This is a brief demo of the functionality of the project</p>
-![](https://github.com/Novin1380/CBV_To_Do_App/blob/main/Demo/ToDoApp-Test.gif)
+This is a brief demo of the functionality of the project
+<p align="center">
+<img src="https://github.com/Novin1380/CBV_To_Do_App/blob/main/Demo/ToDoApp-Test.gif" alt="database schema" width="720"/>
+</p>
 
 
 
