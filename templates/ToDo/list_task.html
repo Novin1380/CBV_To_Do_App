@@ -1,0 +1,56 @@
+{% extends 'base.html' %}
+{% load static %}
+
+
+
+
+{% block title %} ToDo App {% endblock %}
+{% block extra_css %}{% endblock %}
+
+
+{% block content %}
+    <div class="container">
+        <div class="row justify-content-center align-items-center main-row">
+          <div class="col shadow main-col bg-white">
+            <div class="row bg-primary text-white">
+              <div class="col  p-2">
+                <h1>Todo App</h1>
+              </div>
+            </div>
+            <form class="row justify-content-between text-white p-2" method="POST" action="{% url 'ToDo:create_task' %}">
+              {% csrf_token %}
+              <div id="add-form" class="form-group flex-fill mb-2">
+                <input id="task-input" name="title" type="text" class="form-control" value="">
+                <button id="add_button" type="submit" class="btn btn-primary mb-2 ml-2">Add</button>
+              </div>
+            </form>
+            <div class="row" id="task-list">
+              {% for task in tasks %}
+              <li class="task-item">
+                {% if task.done == True %}
+                <span class="task-content done-text">{{ task.title }}</span>
+                <section class= "task-buttons">
+                  <a type="button" class="edit-button" href="{% url 'ToDo:update_task' task.id %}"><i class="fa fa-edit"></i></a>
+                  <a type="button" class="undo-button" href="{% url 'ToDo:undo_task' task.id %}"><i class="fa fa-undo"></i></a>
+                  <a type="button" class="remove-button" href="{% url 'ToDo:delete_task' task.id %}"><i class="fa fa-trash-o"></i></a>
+                </section>
+                {% else %}
+                <span class="task-content">{{ task.title }}</span>
+                <section class= "task-buttons">
+                  <a type="button" class="edit-button" href="{% url 'ToDo:update_task' task.id %}"><i class="fa fa-edit"></i></a>
+                  <a type="button" class="done-button" href="{% url 'ToDo:complete_task' task.id %}"><i class="fa fa-check"></i></a>
+                  <a type="button" class="remove-button" href="{% url 'ToDo:delete_task' task.id %}"><i class="fa fa-trash-o"></i></a>
+                </section>
+                {% endif %}
+                
+              </li>
+              {% comment %} <ul><small>{{task.created_date}}</small></ul> {% endcomment %}
+              {% endfor %} 
+            </div>
+          </div>
+        </div>
+      </div>
+    
+      {% endblock %}
+
+{% block extra_js %}{% endblock %}
