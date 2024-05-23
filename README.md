@@ -1,6 +1,6 @@
 # CBV_To_Do_App
  <h1 align="center">Django Class Based View ToDo App</h1> 
-<h2 align="center">This is a simple of a <strong>Demo Class Based View</strong> ToDoApp</h2>
+<h2 align="center">This is a Django simple of a <strong>Demo Class Based View</strong> ToDoApp</h2>
 
 ### Overview
 - [Overview](#overview)
